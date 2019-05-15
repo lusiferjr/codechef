@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540403928 source:x:\work\codechef\sept_long_chalange\sept_long_chalange\main.cpp
+	<bits/stdc++.h>
+
+1540402534 source:x:\work\codechef\sept_long_chalange\sept_long_chalange\lcm.cpp
+
+1540403653 source:x:\work\codechef\sept_long_chalange\sept_long_chalange\problem2.cpp
+	<iostream>
+

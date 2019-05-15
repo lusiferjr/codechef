@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1545311892 source:x:\work\codechef\declongchallenge\declong\chefintro.cpp
+	<bits/stdc++.h>
+
+1545311911 source:x:\work\codechef\declongchallenge\declong\main.cpp
+
+1545312013 source:x:\work\codechef\longchallenge\anynimous\declongchallenge\declong\chefintro.cpp
+	<bits/stdc++.h>
+
+1545311911 source:x:\work\codechef\longchallenge\anynimous\declongchallenge\declong\main.cpp
+
+1546067997 source:x:\work\codechef\longchallenge\anynimous\declongchallenge\declong\game.cpp
+	<bits/stdc++.h>
+
